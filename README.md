@@ -16,5 +16,5 @@ Google Shopping. Actually it's under develope.
 
 - [Raúl Ramírez](https://github.com/jatib "jatib")
 
-if you want to contribute please send a mail to: [jatib@ciencias.uanm.mx](jatib@ciencias.uanm.mx "jatib")
+if you want to contribute please send a mail to: [jatib@ciencias.uanm.mx](to:jatib@ciencias.uanm.mx)
 
