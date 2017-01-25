@@ -2,14 +2,14 @@
 
 ## To do a feed file to use with Google Merchant.
 
-This program has been maked to do a feed file compatible with the Google Merchant center. It's not an extension nor module right now, but _**furter in the future will be**_.
+This program has been maked to do a feed file compatible with the Google Merchant center. It's not an extension nor module right now, but _**further in the future will be**_.
  
 
 **Actually it's under develop.**
 
-## How to install (OcFeedMaker 0.0.1).
+## How to install (OcFeedMaker 0.0.2).
 
-Update the files **feed.php** and **functions.php** (from **src**) to your host at the root of your Opencart installation, e.g. at http://www.shop.com/ (or where you copy and paste the **upload** folder)
+Update the files **feed.php** and **functions.php** (from **src/OcFeedMaker.0.0.2**) to your host at the root of your Opencart installation, e.g. at http://www.shop.com/ (or where you copy and paste the **upload** folder)
 
 ### How to do a Feed.
 
@@ -23,6 +23,7 @@ If you have any problem, you can enable the test mode to view the information it
 You can view some relevant data adding the **1** value to the function **totalElements()**
 
     totalElements($key,1);
+    
 #### Directories structure.
 - docs: Documentation
 - src: Files of the operative versions
