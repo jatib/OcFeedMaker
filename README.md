@@ -7,6 +7,9 @@ This program has been maked to do a feed file compatible with the Google Merchan
 
 **Actually it's under develop.**
 
+**Note: Issue with index and sqli solved please use the 0.0.2 version.**
+
+**Note 2: We will start working the xml format to install from dashboard soon.**
 ## How to install (OcFeedMaker 0.0.2).
 
 Update the files **feed.php** and **functions.php** (from **src/OcFeedMaker.0.0.2**) to your host at the root of your Opencart installation, e.g. at http://www.shop.com/ (or where you copy and paste the **upload** folder)
@@ -33,6 +36,7 @@ You can view some relevant data adding the **1** value to the function **totalEl
 #### Authors:
 
 - [Raúl Ramírez](https://github.com/jatib "jatib")
+- [Google plus](https://plus.google.com/102338889678226012659)
 
 if you want to contribute please send a mail to: [jatib@ciencias.uanm.mx](to:jatib@ciencias.uanm.mx)
 
